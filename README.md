@@ -54,7 +54,7 @@ java Main
 
 
 ### Screenshot
-[Image](img.png)
+![Image](img.png)
 
 ### 📬 Contact
 Have any questions or want to connect? Reach me here:
