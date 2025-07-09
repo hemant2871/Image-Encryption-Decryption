@@ -43,7 +43,7 @@ javac *.java
 ```
 java Main
 ```
-##🧠 How It Works
+## 🧠 How It Works
 1.  The user selects an image through the Swing interface.
 
 2.  Each pixel of the image is read and its color values are transformed using a key.
