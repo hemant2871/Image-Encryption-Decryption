@@ -1,4 +1,4 @@
-# 🔐 Image Encryption and Decryption using Java (Swing GUI)
+## 🔐 Image Encryption and Decryption using Java (Swing GUI)
 
 This project demonstrates a simple **Image Encryption and Decryption** application built using **Java Swing**. It provides a GUI-based interface where users can upload an image, encrypt it using a key-based algorithm, and decrypt it back to its original form.
 
@@ -53,8 +53,8 @@ java Main
 4.  The same process is reversed in decryption using the same key.
 
 
-## Screenshot
-[Image]()
+### Screenshot
+[Image](img.png)
 
 ### 📬 Contact
 Have any questions or want to connect? Reach me here:
